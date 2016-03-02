@@ -122,7 +122,7 @@ public class PerPanPri extends javax.swing.JFrame
         });
         mnuArc.add(mnuArcGua);
 
-        mnuArcGuaCom.setText("Guardar como...");
+        mnuArcGuaCom.setText("Guardar...");
         mnuArcGuaCom.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 mnuArcGuaComActionPerformed(evt);
