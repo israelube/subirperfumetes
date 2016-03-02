@@ -189,10 +189,10 @@ public class PerPanPri extends javax.swing.JFrame
     }// </editor-fold>//GEN-END:initComponents
 
     private void mnuArcSalActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mnuArcSalActionPerformed
-        //if (JOptionPane.showConfirmDialog(this, "¿Está seguro que desea salir?", "PerfumeTES", JOptionPane.YES_NO_OPTION)==JOptionPane.YES_OPTION)
-        //if (JOptionPane.showConfirmDialog(this, "¿Está seguro que desea salir?", "PerfumeTES", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE)==JOptionPane.YES_OPTION)
-        Icon objIco=new javax.swing.ImageIcon(getClass().getResource("/imagenes/salir.jpg"));
-        if (JOptionPane.showConfirmDialog(null, "¿Está seguro que desea salir?", "PerfumeTES", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE, objIco)==JOptionPane.YES_OPTION)
+        if (JOptionPane.showConfirmDialog(this, "¿Está seguro que desea salir?", "PerfumeTES", JOptionPane.YES_NO_OPTION)==JOptionPane.YES_OPTION)
+        if (JOptionPane.showConfirmDialog(this, "¿Está seguro que desea salir?", "PerfumeTES", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE)==JOptionPane.YES_OPTION)
+        //Icon objIco=new javax.swing.ImageIcon(getClass().getResource("/imagenes/salir.jpg"));
+        //if (JOptionPane.showConfirmDialog(null, "¿Está seguro que desea salir?", "PerfumeTES", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE, objIco)==JOptionPane.YES_OPTION)
         {
             System.exit(0);
         }
