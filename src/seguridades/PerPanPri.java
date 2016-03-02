@@ -213,7 +213,7 @@ public class PerPanPri extends javax.swing.JFrame
     }//GEN-LAST:event_mnuArcGuaActionPerformed
 
     private void mnuArcAbrActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mnuArcAbrActionPerformed
-        abrirPerArcBloNot();
+        abrirPerArcBloNota();
     }//GEN-LAST:event_mnuArcAbrActionPerformed
 
     private void mnuArcGuaComActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mnuArcGuaComActionPerformed
