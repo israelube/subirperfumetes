@@ -21,7 +21,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 public class PerPanPri extends javax.swing.JFrame
 {
 
-    private String strRut="D:\\";   //Ruta
+    private String strRut="C:\\";   //Ruta
     
     /**
      * Creates new form PerPanPri
